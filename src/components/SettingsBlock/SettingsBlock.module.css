@@ -1,0 +1,32 @@
+.settingsBlock {
+    margin-top: 300px; /* Поля вокруг текста */
+    margin-left: 20%;
+    padding: 10px;
+    margin-right: 10px;
+    border-radius: 15px;
+    background-color: #757fbc;
+    width: 20em; /* Ширина слоя */
+    float: left;
+    border: 4px solid black;
+}
+
+.inputBlock {
+    background-color: #e8dbff ;
+    border: 2px solid black;
+    width: 120px;
+    margin-left: 45px;
+}
+
+.redInputBlock {
+    background-color: #d6768e ;
+    border: 2px solid red;
+    width: 120px;
+    margin-left: 45px;
+}
+
+.maxMinValue {
+    font-weight: bold;
+    font-size: 23px;
+    color: black;
+    padding: 2%;
+}

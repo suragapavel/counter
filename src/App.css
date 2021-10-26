@@ -1,4 +1,10 @@
+body {
+  background: #757fbc; /* Цвет фона */
+  color: #fc0; /* Цвет текста */
+}
+
 .App {
+  background-color: #757fbc;
   text-align: center;
 }
 

@@ -1,0 +1,40 @@
+.сounterBlock {
+    background-color: #757fbc ;
+    margin-top: 300px;
+    margin-left: 200px;
+    width: 20em;
+    padding: 10px;
+    float: left;
+    border: 4px solid black;
+    border-radius: 15px;
+}
+
+.counterValue {
+    font-weight: bold;
+    font-size: 46px;
+    color: black;
+    padding: 15px;
+
+}
+.errMes {
+    font-weight: bold;
+    font-size: 23px;
+    color: black;
+    padding: 15px;
+}
+
+.errRedMes {
+    font-weight: bold;
+    font-size: 23px;
+    color: red;
+    padding: 30px;
+}
+
+.redValue {
+    font-weight: bold;
+    font-size: 46px;
+    padding: 15px;
+    color: red;
+}
+
+
